@@ -1,0 +1,23 @@
+{
+  "name": "shankar-masilamani-portfolio",
+  "version": "1.0.0",
+  "description": "Shankar Masilamani's AI Product Owner Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankarmasilamani/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankarmasilamani/Portfolio/issues"
+  },
+  "homepage": "https://github.com/shankarmasilamani/Portfolio#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.1.0"
+  }
+}
